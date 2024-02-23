@@ -1,0 +1,6 @@
+/* Use Poppins Global Font I have already added in html file */
+
+/* Reset CSS */
+* {
+  font-family: 'Poppins', sans-serif;
+}
